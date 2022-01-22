@@ -1,1 +1,1 @@
-# personal_spotify_EDA
+An Exploratory Data Analysis of my personal data on Spotify
